@@ -18,8 +18,5 @@ d) print out the details of the books
 3. Make sure you have C++ sdk components install on your computer.
 4. Or use a online compiler to run the code.
 
-## Output Screenshot:
-<img src="" width="420">
-<img src="" width="420">
-<img src="" width="420">
+## Sample Output:
 <img src="" width="420">
