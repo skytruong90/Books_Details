@@ -19,4 +19,4 @@ d) print out the details of the books
 4. Or use a online compiler to run the code.
 
 ## Sample Output:
-<img src="" width="420">
+<img src="pic1.png" width="420">
