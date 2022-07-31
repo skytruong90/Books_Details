@@ -4,11 +4,11 @@
 I coded this in C++
 
 ## Purpose: 
-a) define a struct 'books' with fields name (string type and size 20) and author (string type and size 20)
-b) declare an array a[50] of the above struct
-c) input the number of books 
-c) provide input specifications of the books 
-d) print out the details of the books
+1. define a struct 'books' with fields name (string type and size 20) and author (string type and size 20)
+2. declare an array a[50] of the above struct
+3. input the number of books 
+4. provide input specifications of the books 
+5. print out the details of the books
 
 ## Here is a Live Demo:
 
